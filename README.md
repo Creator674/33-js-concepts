@@ -91,25 +91,59 @@
 ### Статьи
 
  * 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+    
+Review: difficult to understand *from the train*, not recomended for begginers, basics explained by difficult words 4/10, 🟥.
  * 📜 [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
+    
+Review: not bad, basic article, nothing special 5/10 🟨.
  * 📜 [Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi](https://www.valentinog.com/blog/js-execution-context-call-stack/)
+    
+Review: Article is not available ⬛.
  * 📜 [What is the JS Event Loop and Call Stack? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
+    
+Review: Fast, *programmer visual explanation*, 5.5/10 🟨.
  * 📜 [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+    
+Review: Short, only for those who are already familiar with the topic, 2/10 🟥. 
  * 📜 [Understanding Execution Context and Execution Stack in Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+    
+Review: good one, well explained and. 8/10 🟩.
  * 📜 [How JavaScript Works: An Overview of the Engine, the Runtime, and the Call Stack — Alexander Zlatkov](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+    
+Review: not bad actually, but too far from topic 5/10 🟨.
  * 📜 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+    
+Review: 10/10, this is really usefull and unltimate 🟩🟩🟩!
 
 ### Видео
 
  * 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
+    
+Review: difficult to get the point, not well explained 3/10 🟥.
  * 🎥 [The JS Call Stack Explained In 9 Minutes — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
+    
+Review: Explained! and fast btw 8/10 🟩
  * 🎥 [JavaScript Execution Stack — Codecademy](https://www.youtube.com/watch?v=jT0USJeNFEA)
+    
+Review: Not available anymore ⬛
  * 🎥 [What is the Call Stack? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
+    
+Review: Slow, moving around of the topic a lot. 4/10 🟥
  * 🎥 [The Call Stack — Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+  
+Review: Old fashioned, one themed, straight. 5/10 🟨.
  * 🎥 [Understanding JavaScript Execution — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+    
+Review: cool, explained, with live audience. 9/10 🟩
  * 🎥 [Call Stack & Event Loop — movies com](https://www.youtube.com/watch?v=mk0lu9MKBto)
+  
+Review: Not available anymore ⬛
  * 🎥 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
+  
+Review: good video-visualization from previous article 10/10, a lot of really usefull information 🟩🟩🟩!
   * 🎥 [What the heck is the event loop anyway? — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+  
+Review: The best one 10/10 🟩🟩🟩!
 
 **[⬆ К началу](#содержание)**
 
